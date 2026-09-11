@@ -1,16 +1,23 @@
 ## Hi, I'm Matthias 👋
 
-Software engineer & researcher. I care about distributed systems, security and
-tooling that stays out of your way.
+I'm **Dr. Matthias Lohr**, a freelance **Platform Engineering Lead & Architect**
+with 15+ years of hands-on experience. I help organizations design and operate
+scalable, cloud-native platforms — from architecture and Internal Developer
+Platforms to automated CI/CD pipelines and sovereign, on-premise infrastructure.
+Security runs through everything I build, grounded in a PhD in Computer Science
+on security in distributed systems.
+
+Beyond building, I share what I know — through workshops, mentoring and talks.
 
 > [!IMPORTANT]
 > **Most of my work lives on GitLab, not here.** 🦊
 > This profile is mostly a landing page — for active repositories, issues and
 > merge requests, head to **[gitlab.com/MatthiasLohr](https://gitlab.com/MatthiasLohr)**.
 
-- 🌐 Website: [mlohr.com](https://mlohr.com)
+- 🌐 Website: [mlohr.com](https://mlohr.com) — services, blog, publications
 - 🦊 GitLab: [gitlab.com/MatthiasLohr](https://gitlab.com/MatthiasLohr) ← the good stuff
-- 💬 Ask me about Python, Go, Kubernetes, CI/CD
+- 💬 Ask me about Kubernetes, Helm, platform architecture, CI/CD and security
+- 🤝 Available for freelance work — [get in touch](https://mlohr.com/contact-me/)
 
 ### 🦊 Top projects on GitLab
 
