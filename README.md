@@ -19,50 +19,149 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 - 💬 Ask me about Kubernetes, Helm, platform architecture, CI/CD and security
 - 🤝 Available for freelance work — [get in touch](https://mlohr.com/contact-me/)
 
-### 🦊 Top projects on GitLab
+### 🛠️ Open source
 
 <!-- PROJECTS:START -->
+#### Python Tools and Libraries
+
 <table>
-  <tr>
-    <td width="50%" align="left" valign="top">
-      <h4><a href="https://gitlab.com/MatthiasLohr/hcloud-cloud-controller-manager-helm-chart">Hetzner Cloud - Cloud Controller Manager Helm Chart</a></h4>
-      <p>Community Helm Chart for the Hetzner Cloud hcloud-cloud-controller-manager</p>
-      <p><sub>&#11088; 16 &nbsp;&middot;&nbsp; &#127991;&#65039; v3.3.0</sub></p>
-    </td>
-    <td width="50%" align="left" valign="top">
-      <h4><a href="https://gitlab.com/MatthiasLohr/hcloud-csi-driver-helm-chart">Hetzner Cloud - CSI Driver Helm Chart</a></h4>
-      <p>Community Helm Chart for Hetzner Cloud CSI Driver for Kubernetes</p>
-      <p><sub>&#11088; 10 &nbsp;&middot;&nbsp; &#127991;&#65039; v2.2.1</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="left" valign="top">
-      <h4><a href="https://gitlab.com/MatthiasLohr/roundcube-helm-chart">Roundcube Helm Chart</a></h4>
-      <p>Community Helm chart for Roundcube</p>
-      <p><sub>&#11088; 7 &nbsp;&middot;&nbsp; &#127860; 18 &nbsp;&middot;&nbsp; &#127991;&#65039; v1.16.0</sub></p>
-    </td>
-    <td width="50%" align="left" valign="top">
-      <h4><a href="https://gitlab.com/MatthiasLohr/omnibus-gitlab-management-scripts">Omnibus GitLab Management Scripts</a></h4>
-      <p>Tools, helper scripts and some information to manage self-hosted Omnibus GitLab instances (e.g. on DSM NAS)</p>
-      <p><sub>&#11088; 3 &nbsp;&middot;&nbsp; &#127860; 2 &nbsp;&middot;&nbsp; &#127991;&#65039; v1.1.0</sub></p>
-    </td>
-  </tr>
   <tr>
     <td width="50%" align="left" valign="top">
       <h4><a href="https://gitlab.com/MatthiasLohr/helm-sign">Helm Sign</a></h4>
       <p>Python command line tool for creating valid Helm chart signatures</p>
-      <p><sub>&#11088; 2 &nbsp;&middot;&nbsp; &#127860; 3 &nbsp;&middot;&nbsp; &#127991;&#65039; v2.0.1</sub></p>
+      <p>
+        <img src="https://img.shields.io/pypi/v/helm-sign" alt="Helm Sign badge" height="20">
+        <img src="https://img.shields.io/badge/license-Apache--2.0-3d8ef0" alt="Helm Sign badge" height="20">
+      </p>
     </td>
     <td width="50%" align="left" valign="top">
-      <h4><a href="https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart">GitLab Agent Permissioned Helm Chart</a></h4>
-      <p>A Helm chart for the GitLab Agent (agentk) with a permissioned deployment by default</p>
-      <p><sub>&#11088; 2 &nbsp;&middot;&nbsp; &#127991;&#65039; v1.66.0</sub></p>
+      <h4><a href="https://gitlab.com/MatthiasLohr/tololib">TOLOlib</a></h4>
+      <p>Python Library and Command Line Interface for Communicating with TOLO Steam Generators</p>
+      <p>
+        <img src="https://img.shields.io/pypi/v/tololib" alt="TOLOlib badge" height="20">
+        <img src="https://img.shields.io/badge/license-MIT-3d8ef0" alt="TOLOlib badge" height="20">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://gitlab.com/MatthiasLohr/callyzer-tools">Callyzer Tools</a></h4>
+      <p>Tools for analyzing and working with Callyzer Android app exports</p>
+      <p>
+        <img src="https://img.shields.io/pypi/v/callyzer-tools" alt="Callyzer Tools badge" height="20">
+        <img src="https://img.shields.io/badge/license-MIT-3d8ef0" alt="Callyzer Tools badge" height="20">
+      </p>
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://gitlab.com/MatthiasLohr/xmlhashtree">XMLHashTree</a></h4>
+      <p>Python library for creating hash trees (also known as Merkle Trees) from XML</p>
+      <p>
+        <img src="https://img.shields.io/pypi/v/xmlhashtree" alt="XMLHashTree badge" height="20">
+        <img src="https://img.shields.io/badge/license-MIT-3d8ef0" alt="XMLHashTree badge" height="20">
+      </p>
     </td>
   </tr>
 </table>
+
+#### Helm Charts
+
+<table>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart">GitLab Agent Permissioned Helm Chart</a></h4>
+      <p>A Helm chart for the GitLab Agent (agentk) with a permissioned deployment by default</p>
+      <p>
+        <img src="https://img.shields.io/gitlab/v/release/MatthiasLohr%2Fgitlab-agent-permissioned-helm-chart?sort=semver&amp;label=chart" alt="GitLab Agent Permissioned Helm Chart badge" height="20">
+        <img src="https://img.shields.io/badge/license-Apache--2.0-3d8ef0" alt="GitLab Agent Permissioned Helm Chart badge" height="20">
+      </p>
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://gitlab.com/MatthiasLohr/roundcube-helm-chart">Roundcube Helm Chart</a></h4>
+      <p>Community Helm chart for Roundcube</p>
+      <p>
+        <img src="https://img.shields.io/gitlab/v/release/MatthiasLohr%2Froundcube-helm-chart?sort=semver&amp;label=chart" alt="Roundcube Helm Chart badge" height="20">
+        <img src="https://img.shields.io/badge/license-GPL--3.0-3d8ef0" alt="Roundcube Helm Chart badge" height="20">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart">paperless-ngx Helm Chart</a></h4>
+      <p>A community Helm chart for deploying paperless-ngx on a Kubernetes cluster</p>
+      <p>
+        <img src="https://img.shields.io/badge/license-GPL--3.0-3d8ef0" alt="paperless-ngx Helm Chart badge" height="20">
+      </p>
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://gitlab.com/MatthiasLohr/verapdf">veraPDF Helm Chart</a></h4>
+      <p>A community Helm chart for installing veraPDF on a Kubernetes cluster</p>
+      <p>
+        <img src="https://img.shields.io/gitlab/v/release/MatthiasLohr%2Fverapdf?sort=semver&amp;label=chart" alt="veraPDF Helm Chart badge" height="20">
+        <img src="https://img.shields.io/badge/license-Apache--2.0-3d8ef0" alt="veraPDF Helm Chart badge" height="20">
+      </p>
+    </td>
+  </tr>
+</table>
+
+#### Ansible Collections
+
+<table>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://gitlab.com/MatthiasLohr/ansible-collection-common">Common Ansible Collection</a></h4>
+      <p>Ansible collection for common infrastructure management tasks</p>
+      <p>
+        <img src="https://img.shields.io/ansible/collection/v/matthiaslohr/common" alt="Common Ansible Collection badge" height="20">
+        <img src="https://img.shields.io/badge/license-MIT-3d8ef0" alt="Common Ansible Collection badge" height="20">
+      </p>
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://gitlab.com/MatthiasLohr/ansible-collection-hetzner">Hetzner Ansible Collection</a></h4>
+      <p>Ansible collection to support Hetzner infrastructure management</p>
+      <p>
+        <img src="https://img.shields.io/ansible/collection/v/matthiaslohr/hetzner" alt="Hetzner Ansible Collection badge" height="20">
+        <img src="https://img.shields.io/badge/license-MIT-3d8ef0" alt="Hetzner Ansible Collection badge" height="20">
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Other Open Source Projects</b></summary>
+
+<table>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://gitlab.com/MatthiasLohr/roundcube-custom-links">Roundcube Custom Links</a></h4>
+      <p>Roundcube plugin for adding custom links to the webmail interface</p>
+      <p>
+        <img src="https://img.shields.io/badge/license-GPL--3.0-3d8ef0" alt="Roundcube Custom Links badge" height="20">
+      </p>
+    </td>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://gitlab.com/MatthiasLohr/dokuwiki-barcodes">DokuWiki Barcodes</a></h4>
+      <p>DokuWiki plugin for rendering 1D and 2D barcodes inside wiki pages</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h4><a href="https://gitlab.com/MatthiasLohr/europlus-flex-inserts">EuroPlus Flex Inserts</a></h4>
+      <p>OpenSCAD models for modular inserts compatible with the Allit EuroPlus Flex system</p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+</details>
+
+#### Contributions to Upstream Projects
+
+- [Home Assistant TOLO Integration](https://github.com/home-assistant/core) — Author of the TOLO steam generator integration, built on TOLOlib
+- [Kubespray](https://github.com/kubernetes-sigs/kubespray) — Contributor, bug fixing and standardization
+- [GitLab](https://gitlab.com/gitlab-org/omnibus-gitlab) — Contributor for the Omnibus Docker image
 <!-- PROJECTS:END -->
 
-<p align="right"><a href="https://gitlab.com/users/MatthiasLohr/projects">→ all GitLab projects</a></p>
+<p align="right"><a href="https://mlohr.com/open-source/">→ full open source portfolio</a></p>
 
 ### 🦊 Recent GitLab activity
 
