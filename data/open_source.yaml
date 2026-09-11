@@ -1,0 +1,148 @@
+projects:
+  - category_title: Python Tools and Libraries
+    category_title+de: Python-Tools und -Bibliotheken
+    icon: fa-brands fa-python
+    entries:
+      - name: Helm Sign
+        featured: true
+        description: Python command line tool for creating valid Helm chart signatures
+        description+de: Python-Kommandozeilenwerkzeug zum Erstellen gültiger Signaturen für Helm Charts
+        repository: https://gitlab.com/MatthiasLohr/helm-sign
+        badges:
+          - url: https://img.shields.io/pypi/v/helm-sign
+          - url: https://img.shields.io/badge/license-Apache--2.0-3d8ef0
+
+      - name: TOLOlib
+        description: Python Library and Command Line Interface for Communicating with TOLO Steam Generators
+        description+de: Python-Bibliothek und Kommandozeilenwerkzeug zur Kommunikation mit TOLO-Dampfgeneratoren
+        repository: https://gitlab.com/MatthiasLohr/tololib
+        badges:
+          - url: https://img.shields.io/pypi/v/tololib
+          - url: https://img.shields.io/badge/license-MIT-3d8ef0
+
+      - name: Callyzer Tools
+        description: Tools for analyzing and working with Callyzer Android app exports
+        description+de: Werkzeuge zur Analyse und Verarbeitung von Exporten der Android-App Callyzer
+        repository: https://gitlab.com/MatthiasLohr/callyzer-tools
+        badges:
+          - url: https://img.shields.io/pypi/v/callyzer-tools
+          - url: https://img.shields.io/badge/license-MIT-3d8ef0
+
+      - name: XMLHashTree
+        description: Python library for creating hash trees (also known as Merkle Trees) from XML
+        description+de: Python-Bibliothek zum Erzeugen von Hash-Bäumen (auch bekannt als Merkle Trees) aus XML
+        repository: https://gitlab.com/MatthiasLohr/xmlhashtree
+        badges:
+          - url: https://img.shields.io/pypi/v/xmlhashtree
+          - url: https://img.shields.io/badge/license-MIT-3d8ef0
+
+  - category_title: Helm Charts
+    category_title+de: Helm Charts
+    icon: fa-solid fa-dharmachakra
+    entries:
+      - name: GitLab Agent Permissioned Helm Chart
+        featured: true
+        description: A Helm chart for the GitLab Agent (agentk) with a permissioned deployment by default
+        description+de: Helm Chart für den GitLab Agent (agentk) mit standardmäßig eingeschränkten Berechtigungen
+        repository: https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart
+        badges:
+          - url: https://img.shields.io/gitlab/v/release/MatthiasLohr%2Fgitlab-agent-permissioned-helm-chart?sort=semver&label=chart
+          - url: https://img.shields.io/badge/license-Apache--2.0-3d8ef0
+
+      - name: Roundcube Helm Chart
+        description: Community Helm chart for Roundcube
+        description+de: Community-Helm-Chart für Roundcube
+        repository: https://gitlab.com/MatthiasLohr/roundcube-helm-chart
+        badges:
+          - url: https://img.shields.io/gitlab/v/release/MatthiasLohr%2Froundcube-helm-chart?sort=semver&label=chart
+          - url: https://img.shields.io/badge/license-GPL--3.0-3d8ef0
+
+      - name: paperless-ngx Helm Chart
+        description: A community Helm chart for deploying paperless-ngx on a Kubernetes cluster
+        description+de: Community-Helm-Chart zum Betrieb von paperless-ngx in einem Kubernetes-Cluster
+        repository: https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart
+        badges:
+          - url: https://img.shields.io/badge/license-GPL--3.0-3d8ef0
+
+      - name: veraPDF Helm Chart
+        description: A community Helm chart for installing veraPDF on a Kubernetes cluster
+        description+de: Community-Helm-Chart zur Installation von veraPDF in einem Kubernetes-Cluster
+        repository: https://gitlab.com/MatthiasLohr/verapdf
+        badges:
+          - url: https://img.shields.io/gitlab/v/release/MatthiasLohr%2Fverapdf?sort=semver&label=chart
+          - url: https://img.shields.io/badge/license-Apache--2.0-3d8ef0
+
+  - category_title: Ansible Collections
+    category_title+de: Ansible Collections
+    icon: fa-solid fa-layer-group
+    entries:
+      - name: Common Ansible Collection
+        featured: true
+        description: Ansible collection for common infrastructure management tasks
+        description+de: Ansible Collection für allgemeine Aufgaben im Infrastrukturmanagement
+        repository: https://gitlab.com/MatthiasLohr/ansible-collection-common
+        badges:
+          - url: https://img.shields.io/ansible/collection/v/matthiaslohr/common
+          - url: https://img.shields.io/badge/license-MIT-3d8ef0
+
+      #- name:
+      #  repository: https://gitlab.com/MatthiasLohr/ansible-collection-kubernetes
+
+      - name: Hetzner Ansible Collection
+        featured: true
+        description: Ansible collection to support Hetzner infrastructure management
+        description+de: Ansible Collection zur Unterstützung des Infrastrukturmanagements bei Hetzner
+        repository: https://gitlab.com/MatthiasLohr/ansible-collection-hetzner
+        badges:
+          - url: https://img.shields.io/ansible/collection/v/matthiaslohr/hetzner
+          - url: https://img.shields.io/badge/license-MIT-3d8ef0
+
+      #- name:
+      #  repository: https://gitlab.com/MatthiasLohr/ansible-collection-crypto/
+
+  - category_title: Other Open Source Projects
+    category_title+de: Weitere Open-Source-Projekte
+    icon: fa-solid fa-cubes
+    entries:
+      - name: Roundcube Custom Links
+        description: Roundcube plugin for adding custom links to the webmail interface
+        description+de: Roundcube-Plugin zum Hinzufügen eigener Links in der Webmail-Oberfläche
+        repository: https://gitlab.com/MatthiasLohr/roundcube-custom-links
+        badges:
+          - url: https://img.shields.io/badge/license-GPL--3.0-3d8ef0
+
+      - name: DokuWiki Barcodes
+        description: DokuWiki plugin for rendering 1D and 2D barcodes inside wiki pages
+        description+de: DokuWiki-Plugin zur Darstellung von 1D- und 2D-Barcodes in Wiki-Seiten
+        repository: https://gitlab.com/MatthiasLohr/dokuwiki-barcodes
+
+      - name: EuroPlus Flex Inserts
+        description: OpenSCAD models for modular inserts compatible with the Allit EuroPlus Flex system
+        description+de: OpenSCAD-Modelle für modulare Einsätze, kompatibel mit dem Allit-EuroPlus-Flex-System
+        repository: https://gitlab.com/MatthiasLohr/europlus-flex-inserts
+
+
+contributions:
+  - name: Home Assistant TOLO Integration
+    description: Author of the TOLO steam generator integration, built on TOLOlib
+    description+de: Autor der Integration für TOLO-Dampfgeneratoren, aufbauend auf TOLOlib
+    url: https://www.home-assistant.io/integrations/tolo/
+    repository: https://github.com/home-assistant/core
+    badges:
+      - url: https://img.shields.io/github/stars/home-assistant/core?label=stars
+
+  - name: Kubespray
+    description: Contributor, bug fixing and standardization
+    description+de: Contributor, Fehlerbehebung und Standardisierung
+    url: https://kubespray.io/
+    repository: https://github.com/kubernetes-sigs/kubespray
+    badges:
+      - url: https://img.shields.io/github/stars/kubernetes-sigs/kubespray?label=stars
+
+  - name: GitLab
+    description: Contributor for the Omnibus Docker image
+    description+de: Contributor für das Omnibus-Docker-Image
+    url: https://hub.docker.com/r/gitlab/gitlab-ce
+    repository: https://gitlab.com/gitlab-org/omnibus-gitlab
+    badges:
+      - url: https://img.shields.io/gitlab/stars/gitlab-org%2Fomnibus-gitlab?label=stars

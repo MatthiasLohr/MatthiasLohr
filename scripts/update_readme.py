@@ -5,12 +5,14 @@ GitHub renders profile READMEs statically: no <iframe>, no JavaScript, no
 server-side includes. The only way to show foreign web content is to fetch it
 ahead of time and commit the result -- which is what this script does.
 
-https://mlohr.com/open-source/ is the single source of truth for which
-projects are shown and how they are described; this script mirrors that
-curation rather than ranking repositories itself.
+Project data comes from data/open_source.yaml, a vendored copy of the databag
+that drives https://mlohr.com/open-source/, so both pages describe the same
+projects the same way. Refresh the copy after editing the website:
+
+    python3 scripts/update_readme.py --sync ../mlohr.com/website/databags/open_source.yaml
 
 Usage:
-    python3 scripts/update_readme.py [--check]
+    python3 scripts/update_readme.py [--check] [--databag PATH]
 
 --check exits 1 if README.md would change (useful in CI without committing).
 """
@@ -19,11 +21,13 @@ from __future__ import annotations
 
 import argparse
 import re
+import shutil
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
+
+import yaml
 from dataclasses import dataclass, field
-from html.parser import HTMLParser
 from pathlib import Path
 
 README = Path(__file__).resolve().parent.parent / "README.md"
@@ -31,11 +35,13 @@ USER_AGENT = "MatthiasLohr-profile-readme/1.0 (+https://github.com/MatthiasLohr)
 TIMEOUT = 20
 MAX_ITEMS = 5
 
+DATABAG = README.parent / "data" / "open_source.yaml"
 OPEN_SOURCE_URL = "https://mlohr.com/open-source/"
 
 # Categories rendered as collapsed <details> instead of open card grids.
 COLLAPSED_CATEGORIES = {"Other Open Source Projects"}
-# Rendered as a compact list -- these are other people's repositories.
+# Heading for the databag's "contributions" list -- other people's
+# repositories, rendered as a compact list rather than cards.
 UPSTREAM_CATEGORY = "Contributions to Upstream Projects"
 
 NS = {"atom": "http://www.w3.org/2005/Atom"}
@@ -45,7 +51,8 @@ NS = {"atom": "http://www.w3.org/2005/Atom"}
 class Project:
     name: str
     description: str = ""
-    url: str = ""
+    url: str = ""          # repository
+    homepage: str = ""     # project or docs page, when it has one
     badges: list[str] = field(default_factory=list)
 
 
@@ -79,80 +86,40 @@ def fetch(url: str) -> bytes:
         return response.read()
 
 
-class OpenSourcePageParser(HTMLParser):
-    """Pull categories and project cards out of the open-source page.
+def load_categories(databag: Path) -> tuple[list[Category], list[Project]]:
+    """Read the website databag into categories plus upstream contributions."""
+    data = yaml.safe_load(databag.read_text(encoding="utf-8")) or {}
 
-    Anchored on the page's own class names: <section class="service-category">
-    wraps an <h2> title and a series of <div class="os-card"> entries, each
-    with an <h3> name, a <p class="os-card-description">, shields.io <img>
-    badges and a repository <a href>.
-    """
+    def as_project(entry: dict) -> Project:
+        return Project(
+            name=str(entry.get("name", "")).strip(),
+            description=str(entry.get("description") or "").strip(),
+            url=str(entry.get("repository") or entry.get("url") or "").strip(),
+            homepage=str(entry.get("url") or "").strip(),
+            badges=[
+                str(badge["url"])
+                for badge in entry.get("badges") or []
+                if isinstance(badge, dict) and badge.get("url")
+            ],
+        )
 
-    def __init__(self) -> None:
-        super().__init__(convert_charrefs=True)
-        self.categories: list[Category] = []
-        self._capture: str | None = None
-        self._buffer: list[str] = []
-        self._card_depth: int | None = None
-        self._depth = 0
-
-    # -- helpers ---------------------------------------------------------
-    @property
-    def _category(self) -> Category | None:
-        return self.categories[-1] if self.categories else None
-
-    @property
-    def _project(self) -> Project | None:
-        category = self._category
-        return category.projects[-1] if category and category.projects else None
-
-    def _start_capture(self, field_name: str) -> None:
-        self._capture = field_name
-        self._buffer = []
-
-    # -- HTMLParser API --------------------------------------------------
-    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
-        attributes = {key: (value or "") for key, value in attrs}
-        classes = attributes.get("class", "").split()
-        self._depth += 1
-
-        if tag == "section" and "service-category" in classes:
-            self.categories.append(Category(title=""))
-        elif tag == "div" and "os-card" in classes:
-            if self._category is not None:
-                self._category.projects.append(Project(name=""))
-                self._card_depth = self._depth
-        elif tag == "h2" and self._category is not None and not self._category.title:
-            self._start_capture("title")
-        elif tag == "h3" and self._project is not None:
-            self._start_capture("name")
-        elif tag == "p" and "os-card-description" in classes:
-            self._start_capture("description")
-        elif tag == "img" and self._project is not None:
-            source = attributes.get("src", "")
-            if source.startswith("https://img.shields.io/"):
-                self._project.badges.append(source)
-        elif tag == "a" and self._project is not None and not self._project.url:
-            href = attributes.get("href", "")
-            if href.startswith(("https://gitlab.com/", "https://github.com/")):
-                self._project.url = href
-
-    def handle_endtag(self, tag: str) -> None:
-        if self._capture and tag in {"h2", "h3", "p"}:
-            text = re.sub(r"\s+", " ", "".join(self._buffer)).strip()
-            if self._capture == "title" and self._category is not None:
-                self._category.title = text
-            elif self._project is not None:
-                setattr(self._project, self._capture, text)
-            self._capture = None
-
-        if tag == "div" and self._card_depth == self._depth:
-            self._card_depth = None
-        self._depth = max(0, self._depth - 1)
-
-    def handle_data(self, data: str) -> None:
-        if self._capture:
-            self._buffer.append(data)
+    categories = [
+        Category(
+            title=str(group.get("category_title", "")).strip(),
+            projects=[
+                project
+                for entry in group.get("entries") or []
+                if (project := as_project(entry)).name
+            ],
+        )
+        for group in data.get("projects") or []
+    ]
+    contributions = [
+        project
+        for entry in data.get("contributions") or []
+        if (project := as_project(entry)).name
+    ]
+    return [c for c in categories if c.title and c.projects], contributions
 
 
 def escape_attr(value: str) -> str:
@@ -209,43 +176,41 @@ def render_upstream(projects: list[Project]) -> str:
     items = []
     for project in projects:
         label = escape_markdown(project.name)
-        entry = f"- [{label}]({project.url})" if project.url else f"- {label}"
+        target = project.homepage or project.url
+        entry = f"- [{label}]({target})" if target else f"- {label}"
         if project.description:
             entry += f" — {escape_markdown(project.description)}"
+        if project.homepage and project.url:
+            entry += f" ([repository]({project.url}))"
         items.append(entry)
     return "\n".join(items)
 
 
-def render_projects() -> str:
+def render_projects(databag: Path) -> str:
     try:
-        parser = OpenSourcePageParser()
-        parser.feed(fetch(OPEN_SOURCE_URL).decode("utf-8", errors="replace"))
-        categories = [
-            category
-            for category in parser.categories
-            if category.title and category.projects
-        ]
+        categories, contributions = load_categories(databag)
     except Exception as error:
-        print(f"warning: open-source page: {error}", file=sys.stderr)
-        categories = []
+        print(f"warning: {databag}: {error}", file=sys.stderr)
+        return f"_Could not load [the project list]({OPEN_SOURCE_URL}) at build time._"
 
     if not categories:
-        return (
-            f"_Could not load [the project list]({OPEN_SOURCE_URL}) at build time._"
-        )
+        return f"_No projects listed in {databag.name}._"
 
     blocks = []
     for category in categories:
         title = escape_text(category.title)
-        if category.title == UPSTREAM_CATEGORY:
-            blocks.append(f"#### {title}\n\n{render_upstream(category.projects)}")
-        elif category.title in COLLAPSED_CATEGORIES:
+        grid = render_grid(category.projects)
+        if category.title in COLLAPSED_CATEGORIES:
             blocks.append(
-                f"<details>\n<summary><b>{title}</b></summary>\n\n"
-                f"{render_grid(category.projects)}\n\n</details>"
+                f"<details>\n<summary><b>{title}</b></summary>\n\n{grid}\n\n</details>"
             )
         else:
-            blocks.append(f"#### {title}\n\n{render_grid(category.projects)}")
+            blocks.append(f"#### {title}\n\n{grid}")
+
+    if contributions:
+        blocks.append(
+            f"#### {escape_text(UPSTREAM_CATEGORY)}\n\n{render_upstream(contributions)}"
+        )
 
     return "\n\n".join(blocks)
 
@@ -301,13 +266,29 @@ def main() -> int:
         action="store_true",
         help="exit 1 if the README would change, without writing it",
     )
+    parser.add_argument(
+        "--databag",
+        type=Path,
+        default=DATABAG,
+        help=f"project data to render (default: {DATABAG.name})",
+    )
+    parser.add_argument(
+        "--sync",
+        type=Path,
+        metavar="PATH",
+        help="copy PATH over the vendored databag before rendering",
+    )
     args = parser.parse_args()
+
+    if args.sync:
+        shutil.copyfile(args.sync, DATABAG)
+        print(f"synced {DATABAG.name} from {args.sync}")
 
     original = README.read_text(encoding="utf-8")
     updated = original
     for feed in FEEDS:
         updated = replace_block(updated, feed.marker, render_feed(feed))
-    updated = replace_block(updated, "PROJECTS", render_projects())
+    updated = replace_block(updated, "PROJECTS", render_projects(args.databag))
 
     if updated == original:
         print("README.md is up to date")

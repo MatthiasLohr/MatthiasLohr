@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - scripts/update_readme.py
+      - data/open_source.yaml
       - .github/workflows/update-readme.yml
 
 permissions:
@@ -27,7 +28,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Render GitLab data into README.md
+      - name: Install dependencies
+        run: pip install --disable-pip-version-check pyyaml
+
+      - name: Render project data into README.md
         run: python3 scripts/update_readme.py
 
       - name: Commit changes

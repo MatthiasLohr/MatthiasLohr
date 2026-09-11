@@ -156,9 +156,9 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 
 #### Contributions to Upstream Projects
 
-- [Home Assistant TOLO Integration](https://github.com/home-assistant/core) — Author of the TOLO steam generator integration, built on TOLOlib
-- [Kubespray](https://github.com/kubernetes-sigs/kubespray) — Contributor, bug fixing and standardization
-- [GitLab](https://gitlab.com/gitlab-org/omnibus-gitlab) — Contributor for the Omnibus Docker image
+- [Home Assistant TOLO Integration](https://www.home-assistant.io/integrations/tolo/) — Author of the TOLO steam generator integration, built on TOLOlib ([repository](https://github.com/home-assistant/core))
+- [Kubespray](https://kubespray.io/) — Contributor, bug fixing and standardization ([repository](https://github.com/kubernetes-sigs/kubespray))
+- [GitLab](https://hub.docker.com/r/gitlab/gitlab-ce) — Contributor for the Omnibus Docker image ([repository](https://gitlab.com/gitlab-org/omnibus-gitlab))
 <!-- PROJECTS:END -->
 
 <p align="right"><a href="https://mlohr.com/open-source/">→ full open source portfolio</a></p>
