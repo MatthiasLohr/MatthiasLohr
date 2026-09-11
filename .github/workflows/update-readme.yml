@@ -1,4 +1,4 @@
-name: Update README feeds
+name: Update README
 
 on:
   schedule:
@@ -7,14 +7,14 @@ on:
   push:
     branches: [main]
     paths:
-      - scripts/update_feeds.py
-      - .github/workflows/update-feeds.yml
+      - scripts/update_readme.py
+      - .github/workflows/update-readme.yml
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-feeds
+  group: update-readme
   cancel-in-progress: true
 
 jobs:
@@ -27,8 +27,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Render feeds into README.md
-        run: python3 scripts/update_feeds.py
+      - name: Render GitLab data into README.md
+        run: python3 scripts/update_readme.py
 
       - name: Commit changes
         run: |
@@ -38,5 +38,5 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: refresh README feeds" -- README.md
+          git commit -m "chore: refresh README from GitLab" -- README.md
           git push
