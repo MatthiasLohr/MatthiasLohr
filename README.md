@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr opened merge request !12: Update pre-commit hook astral-sh/ruff-pre-commit to v0.16.7 at Matthias Lohr / Helm Sign](https://gitlab.com/MatthiasLohr/helm-sign/-/merge_requests/12)
-- [Matthias Lohr pushed new project branch renovate/astral-sh-ruff-pre-commit-0.x at Matthias Lohr / Helm Sign](https://gitlab.com/MatthiasLohr/helm-sign/-/commits/renovate/astral-sh-ruff-pre-commit-0.x)
-- [Matthias Lohr opened merge request !13: Update Helm release redis to v28.1.0 at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/merge_requests/13)
-- [Matthias Lohr pushed new project branch renovate/redis-28.x at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/commits/renovate/redis-28.x)
-- [Matthias Lohr pushed new project tag v1.66.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/v1.66.0)
+- [Matthias Lohr deleted project branch renovate/gitpython-3.x at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/renovate/gitpython-3.x)
+- [Matthias Lohr accepted merge request !15: Update dependency GitPython to v3.1.62 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/15)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/compare/75b9ea0ca831027342fd351073e2d9ef31f7d9fe...3ef7968c7a2a62a2ca0e2bed1a70835d2ee4c32e)
+- [Matthias Lohr deleted project branch renovate/phpunit-phpunit-13.x-lockfile at Matthias Lohr / DokuWiki Barcodes](https://gitlab.com/MatthiasLohr/dokuwiki-barcodes/-/commits/renovate/phpunit-phpunit-13.x-lockfile)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / DokuWiki Barcodes](https://gitlab.com/MatthiasLohr/dokuwiki-barcodes/-/compare/47fd58b360a843430cd6ee4ac2c80ad13480c4d4...97dba8cccfacc451aec88334b25050be1c3c42ef)
 <!-- GITLAB:END -->
 
 <details>
