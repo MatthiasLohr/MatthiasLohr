@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
+- [Matthias Lohr opened merge request !16: Update dependency semver to v3.1.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/16)
+- [Matthias Lohr pushed new project branch renovate/semver-3.x at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/renovate/semver-3.x)
 - [Matthias Lohr deleted project branch renovate/gitpython-3.x at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/renovate/gitpython-3.x)
 - [Matthias Lohr accepted merge request !15: Update dependency GitPython to v3.1.62 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/15)
 - [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/compare/75b9ea0ca831027342fd351073e2d9ef31f7d9fe...3ef7968c7a2a62a2ca0e2bed1a70835d2ee4c32e)
-- [Matthias Lohr deleted project branch renovate/phpunit-phpunit-13.x-lockfile at Matthias Lohr / DokuWiki Barcodes](https://gitlab.com/MatthiasLohr/dokuwiki-barcodes/-/commits/renovate/phpunit-phpunit-13.x-lockfile)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / DokuWiki Barcodes](https://gitlab.com/MatthiasLohr/dokuwiki-barcodes/-/compare/47fd58b360a843430cd6ee4ac2c80ad13480c4d4...97dba8cccfacc451aec88334b25050be1c3c42ef)
 <!-- GITLAB:END -->
 
 <details>
