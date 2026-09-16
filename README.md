@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
+- [Matthias Lohr opened merge request !32: Update nginx Docker tag to v1.31.6 at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/merge_requests/32)
+- [Matthias Lohr pushed new project branch renovate/nginx-1.x at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commits/renovate/nginx-1.x)
+- [Matthias Lohr opened merge request !15: Update dependency phpunit/phpunit to v13.3.4 at Matthias Lohr / DokuWiki Barcodes](https://gitlab.com/MatthiasLohr/dokuwiki-barcodes/-/merge_requests/15)
+- [Matthias Lohr pushed new project branch renovate/phpunit-phpunit-13.x-lockfile at Matthias Lohr / DokuWiki Barcodes](https://gitlab.com/MatthiasLohr/dokuwiki-barcodes/-/commits/renovate/phpunit-phpunit-13.x-lockfile)
 - [Matthias Lohr opened merge request !16: Update dependency semver to v3.1.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/16)
-- [Matthias Lohr pushed new project branch renovate/semver-3.x at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/renovate/semver-3.x)
-- [Matthias Lohr deleted project branch renovate/gitpython-3.x at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/renovate/gitpython-3.x)
-- [Matthias Lohr accepted merge request !15: Update dependency GitPython to v3.1.62 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/15)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/compare/75b9ea0ca831027342fd351073e2d9ef31f7d9fe...3ef7968c7a2a62a2ca0e2bed1a70835d2ee4c32e)
 <!-- GITLAB:END -->
 
 <details>
