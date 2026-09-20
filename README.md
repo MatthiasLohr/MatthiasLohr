@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
+- [Matthias Lohr pushed to project branch renovate/redis-28.x at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/commit/d48c4c8423ce7ef0edc560aeb1c6b6cf4e41b2d5)
 - [Matthias Lohr pushed to project branch renovate/redis-28.x at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/commit/824a80f6411838e4c4b2f3833be27fe4f811c3f5)
 - [Matthias Lohr opened merge request !13: Update pre-commit hook astral-sh/ruff-pre-commit to v0.16.8 at Matthias Lohr / Helm Sign](https://gitlab.com/MatthiasLohr/helm-sign/-/merge_requests/13)
 - [Matthias Lohr pushed new project branch renovate/astral-sh-ruff-pre-commit-0.x at Matthias Lohr / Helm Sign](https://gitlab.com/MatthiasLohr/helm-sign/-/commits/renovate/astral-sh-ruff-pre-commit-0.x)
-- [Matthias Lohr opened merge request !14: Update Helm release redis to v28.2.1 at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/merge_requests/14)
-- [Matthias Lohr pushed new project branch renovate/redis-28.x at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/commits/renovate/redis-28.x)
+- [Matthias Lohr opened merge request !14: Update Helm release redis to v28.2.2 at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/merge_requests/14)
 <!-- GITLAB:END -->
 
 <details>
