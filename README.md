@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
+- [Matthias Lohr opened merge request !15: Update Helm release redis to v28.2.3 at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/merge_requests/15)
+- [Matthias Lohr pushed new project branch renovate/redis-28.x at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/commits/renovate/redis-28.x)
 - [Matthias Lohr deleted project branch renovate/astral-sh-ruff-pre-commit-0.x at Matthias Lohr / Helm Sign](https://gitlab.com/MatthiasLohr/helm-sign/-/commits/renovate/astral-sh-ruff-pre-commit-0.x)
 - [Matthias Lohr accepted merge request !13: Update pre-commit hook astral-sh/ruff-pre-commit to v0.16.8 at Matthias Lohr / Helm Sign](https://gitlab.com/MatthiasLohr/helm-sign/-/merge_requests/13)
 - [Matthias Lohr pushed to project branch main at Matthias Lohr / Helm Sign](https://gitlab.com/MatthiasLohr/helm-sign/-/compare/621eb0604492246aad62c17bb22e5f3ba8732324...77a8fe562a029df1ec7c03295d93ae829fd2fb6e)
-- [Matthias Lohr deleted project branch renovate/phpunit-phpunit-13.x-lockfile at Matthias Lohr / DokuWiki Barcodes](https://gitlab.com/MatthiasLohr/dokuwiki-barcodes/-/commits/renovate/phpunit-phpunit-13.x-lockfile)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / DokuWiki Barcodes](https://gitlab.com/MatthiasLohr/dokuwiki-barcodes/-/compare/97dba8cccfacc451aec88334b25050be1c3c42ef...bcfefa274a5efb9c245fe57bf78742a900c5807e)
 <!-- GITLAB:END -->
 
 <details>
