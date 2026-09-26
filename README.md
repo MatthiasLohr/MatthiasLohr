@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr opened merge request !11: Update Gradle at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/merge_requests/11)
-- [Matthias Lohr pushed new project branch renovate/gradle-9.x at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/commits/renovate/gradle-9.x)
-- [Matthias Lohr deleted project branch renovate/semver-3.x at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/renovate/semver-3.x)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/compare/d79b44053090f202298deabea2d0c7acc272741a...00e3cff8183d76c9e82ae361bc62a2b3559e9d92)
-- [Matthias Lohr accepted merge request !16: Update dependency semver to v3.1.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/16)
+- [Matthias Lohr opened issue #1: Dependency Dashboard at Matthias Lohr / Ansible Collection Kubernetes](https://gitlab.com/MatthiasLohr/ansible-collection-kubernetes/-/issues/1)
+- [Matthias Lohr commented on merge request !16 at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/merge_requests/16#note_3908988573)
+- [Matthias Lohr opened merge request !16: Update Helm release redis to v28.2.4 at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/merge_requests/16)
+- [Matthias Lohr pushed new project branch renovate/redis-28.x at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/commits/renovate/redis-28.x)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/compare/d168127563b721fd59a0348b6419fea97a23e912...ae379a9930af3c0427175bc8d75c22d549d78966)
 <!-- GITLAB:END -->
 
 <details>
