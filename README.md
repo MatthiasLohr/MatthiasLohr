@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr opened issue #1: Dependency Dashboard at Matthias Lohr / Ansible Collection Kubernetes](https://gitlab.com/MatthiasLohr/ansible-collection-kubernetes/-/issues/1)
-- [Matthias Lohr commented on merge request !16 at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/merge_requests/16#note_3908988573)
-- [Matthias Lohr opened merge request !16: Update Helm release redis to v28.2.4 at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/merge_requests/16)
-- [Matthias Lohr pushed new project branch renovate/redis-28.x at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/commits/renovate/redis-28.x)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/compare/d168127563b721fd59a0348b6419fea97a23e912...ae379a9930af3c0427175bc8d75c22d549d78966)
+- [Matthias Lohr pushed new project tag v3.1.0 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/v3.1.0)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commit/a4a476194f940b84c231980474e818dd91159aa2)
+- [Matthias Lohr deleted project tag v3.1.0 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/v3.1.0)
+- [Matthias Lohr pushed new project tag v2.1.0 at Matthias Lohr / Common Ansible Collection](https://gitlab.com/MatthiasLohr/ansible-collection-common/-/commits/v2.1.0)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / Common Ansible Collection](https://gitlab.com/MatthiasLohr/ansible-collection-common/-/commit/0521934c2561bedd8f1d5135ef4aca18861376c7)
 <!-- GITLAB:END -->
 
 <details>
