@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
+- [Matthias Lohr opened merge request !17: Update dependency GitPython to v3.2.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/17)
+- [Matthias Lohr pushed new project branch renovate/gitpython-3.x at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/renovate/gitpython-3.x)
+- [Matthias Lohr pushed to project branch renovate/redis-28.x at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/commit/f041d6d036add34e14f6bc6fef45d741f7f66b30)
 - [Matthias Lohr pushed to project branch renovate/redis-28.x at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/commit/e049920f52db96b71af32358c5c0b2e321f78d1e)
 - [Matthias Lohr pushed new project tag v3.1.0 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/v3.1.0)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commit/a4a476194f940b84c231980474e818dd91159aa2)
-- [Matthias Lohr deleted project tag v3.1.0 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/v3.1.0)
-- [Matthias Lohr pushed new project tag v2.1.0 at Matthias Lohr / Common Ansible Collection](https://gitlab.com/MatthiasLohr/ansible-collection-common/-/commits/v2.1.0)
 <!-- GITLAB:END -->
 
 <details>
