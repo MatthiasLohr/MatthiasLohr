@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr opened merge request !2: Update dependency devsec.hardening to v11 at Matthias Lohr / Common Ansible Collection](https://gitlab.com/MatthiasLohr/ansible-collection-common/-/merge_requests/2)
-- [Matthias Lohr pushed new project branch renovate/devsec.hardening-11.x at Matthias Lohr / Common Ansible Collection](https://gitlab.com/MatthiasLohr/ansible-collection-common/-/commits/renovate/devsec.hardening-11.x)
-- [Matthias Lohr deleted project branch renovate/gitpython-3.x at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/renovate/gitpython-3.x)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/compare/00e3cff8183d76c9e82ae361bc62a2b3559e9d92...97180bfc4e1b56b8b8dae1fa6620f5462795a69a)
-- [Matthias Lohr accepted merge request !17: Update dependency GitPython to v3.2.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/17)
+- [Matthias Lohr opened merge request !3: Update Helm release hcloud-cloud-controller-manager to v1.39.0 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/merge_requests/3)
+- [Matthias Lohr pushed new project branch renovate/hcloud-cloud-controller-manager-1.x at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/renovate/hcloud-cloud-controller-manager-1.x)
+- [Matthias Lohr deleted project branch renovate/devsec.hardening-11.x at Matthias Lohr / Common Ansible Collection](https://gitlab.com/MatthiasLohr/ansible-collection-common/-/commits/renovate/devsec.hardening-11.x)
+- [Matthias Lohr closed merge request !2: Update dependency devsec.hardening to v11 at Matthias Lohr / Common Ansible Collection](https://gitlab.com/MatthiasLohr/ansible-collection-common/-/merge_requests/2)
+- [Matthias Lohr commented on merge request !2 at Matthias Lohr / Common Ansible Collection](https://gitlab.com/MatthiasLohr/ansible-collection-common/-/merge_requests/2#note_3965520697)
 <!-- GITLAB:END -->
 
 <details>
