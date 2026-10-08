@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
+- [Matthias Lohr opened merge request !12: Update Gradle to v9.8.1 at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/merge_requests/12)
+- [Matthias Lohr pushed new project branch renovate/gradle-9.x at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/commits/renovate/gradle-9.x)
 - [Matthias Lohr opened merge request !3: Update Helm release hcloud-cloud-controller-manager to v1.39.0 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/merge_requests/3)
 - [Matthias Lohr pushed new project branch renovate/hcloud-cloud-controller-manager-1.x at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/renovate/hcloud-cloud-controller-manager-1.x)
 - [Matthias Lohr deleted project branch renovate/devsec.hardening-11.x at Matthias Lohr / Common Ansible Collection](https://gitlab.com/MatthiasLohr/ansible-collection-common/-/commits/renovate/devsec.hardening-11.x)
-- [Matthias Lohr closed merge request !2: Update dependency devsec.hardening to v11 at Matthias Lohr / Common Ansible Collection](https://gitlab.com/MatthiasLohr/ansible-collection-common/-/merge_requests/2)
-- [Matthias Lohr commented on merge request !2 at Matthias Lohr / Common Ansible Collection](https://gitlab.com/MatthiasLohr/ansible-collection-common/-/merge_requests/2#note_3965520697)
 <!-- GITLAB:END -->
 
 <details>
