@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
+- [Matthias Lohr opened merge request !4: Update verapdf/rest Docker tag to v1.30.3 at Matthias Lohr / veraPDF](https://gitlab.com/MatthiasLohr/verapdf/-/merge_requests/4)
+- [Matthias Lohr pushed new project branch renovate/verapdf-rest-1.x at Matthias Lohr / veraPDF](https://gitlab.com/MatthiasLohr/verapdf/-/commits/renovate/verapdf-rest-1.x)
 - [Matthias Lohr opened merge request !3: Update python Docker tag to v3.15 at Matthias Lohr / OpenVPN IPDB](https://gitlab.com/MatthiasLohr/openvpn-ipdb/-/merge_requests/3)
 - [Matthias Lohr pushed new project branch renovate/python-3.x at Matthias Lohr / OpenVPN IPDB](https://gitlab.com/MatthiasLohr/openvpn-ipdb/-/commits/renovate/python-3.x)
 - [Matthias Lohr pushed new project branch renovate/python-3.x at Matthias Lohr / XMLHashTree](https://gitlab.com/MatthiasLohr/xmlhashtree/-/commits/renovate/python-3.x)
-- [Matthias Lohr opened merge request !3: Update python Docker tag to v3.15 at Matthias Lohr / XMLHashTree](https://gitlab.com/MatthiasLohr/xmlhashtree/-/merge_requests/3)
-- [Matthias Lohr opened merge request !18: Update python Docker tag to v3.15 at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/merge_requests/18)
 <!-- GITLAB:END -->
 
 <details>
