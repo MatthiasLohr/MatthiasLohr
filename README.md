@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
+- [Matthias Lohr pushed new project tag v1.70.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/v1.70.0)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commit/0ad51acc603a6494f056f26dab5117c0c7598d48)
 - [Matthias Lohr opened merge request !33: Update nginx Docker tag to v1.31.7 at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/merge_requests/33)
 - [Matthias Lohr pushed new project branch renovate/nginx-1.x at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commits/renovate/nginx-1.x)
 - [Matthias Lohr opened merge request !19: Update dependency GitPython to v3.2.1 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/19)
-- [Matthias Lohr pushed new project branch renovate/gitpython-3.x at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/renovate/gitpython-3.x)
-- [Matthias Lohr opened merge request !4: Update verapdf/rest Docker tag to v1.30.3 at Matthias Lohr / veraPDF](https://gitlab.com/MatthiasLohr/verapdf/-/merge_requests/4)
 <!-- GITLAB:END -->
 
 <details>
