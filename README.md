@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr pushed new project tag v1.70.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/v1.70.0)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commit/0ad51acc603a6494f056f26dab5117c0c7598d48)
-- [Matthias Lohr opened merge request !33: Update nginx Docker tag to v1.31.7 at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/merge_requests/33)
-- [Matthias Lohr pushed new project branch renovate/nginx-1.x at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commits/renovate/nginx-1.x)
-- [Matthias Lohr opened merge request !19: Update dependency GitPython to v3.2.1 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/19)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/compare/177f1947fd1b51f1f162096d7738d039f647b445...51aa76b0394bf8c105d5d144479b4155665e5b22)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/compare/afd624f36c540ac258e1b47be3c922143306dc8d...177f1947fd1b51f1f162096d7738d039f647b445)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/commit/afd624f36c540ac258e1b47be3c922143306dc8d)
+- [Matthias Lohr pushed new project branch main at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/commits/main)
+- [Matthias Lohr created project Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital)
 <!-- GITLAB:END -->
 
 <details>
