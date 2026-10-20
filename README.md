@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
+- [Matthias Lohr opened merge request !13: Update Gradle to v9.8.2 at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/merge_requests/13)
+- [Matthias Lohr pushed new project branch renovate/gradle-9.x at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/commits/renovate/gradle-9.x)
+- [Matthias Lohr pushed new project branch main at Matthias Lohr / DAVePaper](https://gitlab.com/MatthiasLohr/davepaper/-/commits/main)
 - [Matthias Lohr created project Matthias Lohr / DAVePaper](https://gitlab.com/MatthiasLohr/davepaper)
 - [Matthias Lohr pushed to project branch main at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/commit/2058889ac94af33f1095c8c50d6ff8d22922b31b)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/commit/fb724d9f69f98484736d7acc78b7799b9c5de5e7)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/compare/177f1947fd1b51f1f162096d7738d039f647b445...51aa76b0394bf8c105d5d144479b4155665e5b22)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/compare/afd624f36c540ac258e1b47be3c922143306dc8d...177f1947fd1b51f1f162096d7738d039f647b445)
 <!-- GITLAB:END -->
 
 <details>
