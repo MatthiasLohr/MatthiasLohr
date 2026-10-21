@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr opened merge request !13: Update Gradle to v9.8.2 at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/merge_requests/13)
-- [Matthias Lohr pushed new project branch renovate/gradle-9.x at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/commits/renovate/gradle-9.x)
-- [Matthias Lohr pushed new project branch main at Matthias Lohr / DAVePaper](https://gitlab.com/MatthiasLohr/davepaper/-/commits/main)
-- [Matthias Lohr created project Matthias Lohr / DAVePaper](https://gitlab.com/MatthiasLohr/davepaper)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/commit/2058889ac94af33f1095c8c50d6ff8d22922b31b)
+- [Matthias Lohr pushed new project branch main at Matthias Lohr / API Cluster](https://gitlab.com/MatthiasLohr/api-cluster/-/commits/main)
+- [Matthias Lohr created project Matthias Lohr / API Cluster](https://gitlab.com/MatthiasLohr/api-cluster)
+- [Matthias Lohr deleted project branch renovate/pre-commit-4.x at Matthias Lohr / TOLOlib](https://gitlab.com/MatthiasLohr/tololib/-/commits/renovate/pre-commit-4.x)
+- [Matthias Lohr accepted merge request !6: Update dependency pre-commit to ~=4.7.0 at Matthias Lohr / TOLOlib](https://gitlab.com/MatthiasLohr/tololib/-/merge_requests/6)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / TOLOlib](https://gitlab.com/MatthiasLohr/tololib/-/compare/457ef0c6fb691fa0dc72ce820e7c152b1a8c4d28...e5bf3c7f6d44f45525f7ab9fce2d6deda486a343)
 <!-- GITLAB:END -->
 
 <details>
