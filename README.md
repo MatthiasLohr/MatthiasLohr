@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr pushed new project branch main at Matthias Lohr / API Cluster](https://gitlab.com/MatthiasLohr/api-cluster/-/commits/main)
-- [Matthias Lohr created project Matthias Lohr / API Cluster](https://gitlab.com/MatthiasLohr/api-cluster)
-- [Matthias Lohr deleted project branch renovate/pre-commit-4.x at Matthias Lohr / TOLOlib](https://gitlab.com/MatthiasLohr/tololib/-/commits/renovate/pre-commit-4.x)
-- [Matthias Lohr accepted merge request !6: Update dependency pre-commit to ~=4.7.0 at Matthias Lohr / TOLOlib](https://gitlab.com/MatthiasLohr/tololib/-/merge_requests/6)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / TOLOlib](https://gitlab.com/MatthiasLohr/tololib/-/compare/457ef0c6fb691fa0dc72ce820e7c152b1a8c4d28...e5bf3c7f6d44f45525f7ab9fce2d6deda486a343)
+- [Matthias Lohr opened merge request !34: Update nginx Docker tag to v1.31.8 at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/merge_requests/34)
+- [Matthias Lohr pushed new project branch renovate/nginx-1.x at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commits/renovate/nginx-1.x)
+- [Matthias Lohr opened merge request !5: Update Helm release hcloud-cloud-controller-manager to v1.39.1 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/merge_requests/5)
+- [Matthias Lohr pushed new project branch renovate/hcloud-cloud-controller-manager-1.x at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/renovate/hcloud-cloud-controller-manager-1.x)
+- [Matthias Lohr opened merge request !1: Configure Renovate at Matthias Lohr / API Cluster](https://gitlab.com/MatthiasLohr/api-cluster/-/merge_requests/1)
 <!-- GITLAB:END -->
 
 <details>
