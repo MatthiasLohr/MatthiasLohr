@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr opened merge request !34: Update nginx Docker tag to v1.31.8 at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/merge_requests/34)
-- [Matthias Lohr pushed new project branch renovate/nginx-1.x at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commits/renovate/nginx-1.x)
-- [Matthias Lohr opened merge request !5: Update Helm release hcloud-cloud-controller-manager to v1.39.1 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/merge_requests/5)
-- [Matthias Lohr pushed new project branch renovate/hcloud-cloud-controller-manager-1.x at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/renovate/hcloud-cloud-controller-manager-1.x)
-- [Matthias Lohr opened merge request !1: Configure Renovate at Matthias Lohr / API Cluster](https://gitlab.com/MatthiasLohr/api-cluster/-/merge_requests/1)
+- [Matthias Lohr pushed to project branch main at Chart Directory / Chart Directory](https://gitlab.com/ChartDirectory/ChartDirectory/-/compare/53a80b64ee5a89fec7558d97e68fd23650524fa1...d5bd3303e38690bab49fbbf61d4cb85e6001a7e9)
+- [Matthias Lohr pushed to project branch main at Chart Directory / Chart Directory](https://gitlab.com/ChartDirectory/ChartDirectory/-/commit/53a80b64ee5a89fec7558d97e68fd23650524fa1)
+- [Matthias Lohr pushed to project branch main at Chart Directory / Chart Directory](https://gitlab.com/ChartDirectory/ChartDirectory/-/commit/5cec6112ffde8cac841f010dd6e7a194eef51d25)
+- [Matthias Lohr pushed to project branch main at Chart Directory / Chart Directory](https://gitlab.com/ChartDirectory/ChartDirectory/-/compare/44e51a5c462e4f9df710d0539fe2db2464253f79...77d619333a5fa137ef8629a2dcaffe767925f825)
+- [Matthias Lohr pushed to project branch main at Chart Directory / Chart Directory](https://gitlab.com/ChartDirectory/ChartDirectory/-/compare/ed4dd9769254213719f661d9dc1eb42371e582c0...44e51a5c462e4f9df710d0539fe2db2464253f79)
 <!-- GITLAB:END -->
 
 <details>
