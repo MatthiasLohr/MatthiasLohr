@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr pushed to project branch renovate/redis-28.x at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/commit/39b9e99a225737f30bf3c84b8c9418e6bda13b5a)
-- [Matthias Lohr pushed to project branch main at Chart Directory / Chart Directory](https://gitlab.com/ChartDirectory/ChartDirectory/-/compare/53a80b64ee5a89fec7558d97e68fd23650524fa1...d5bd3303e38690bab49fbbf61d4cb85e6001a7e9)
-- [Matthias Lohr pushed to project branch main at Chart Directory / Chart Directory](https://gitlab.com/ChartDirectory/ChartDirectory/-/commit/53a80b64ee5a89fec7558d97e68fd23650524fa1)
-- [Matthias Lohr pushed to project branch main at Chart Directory / Chart Directory](https://gitlab.com/ChartDirectory/ChartDirectory/-/commit/5cec6112ffde8cac841f010dd6e7a194eef51d25)
-- [Matthias Lohr pushed to project branch main at Chart Directory / Chart Directory](https://gitlab.com/ChartDirectory/ChartDirectory/-/compare/44e51a5c462e4f9df710d0539fe2db2464253f79...77d619333a5fa137ef8629a2dcaffe767925f825)
+- [Matthias Lohr closed merge request !1: Configure Renovate at Matthias Lohr / API Cluster](https://gitlab.com/MatthiasLohr/api-cluster/-/merge_requests/1)
+- [Matthias Lohr deleted project branch renovate/nginx-1.x at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commits/renovate/nginx-1.x)
+- [Matthias Lohr accepted merge request !34: Update nginx Docker tag to v1.31.8 at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/merge_requests/34)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/compare/57da2cbe57c69a96a36a4da91811013c2a78ab1f...7abe550610d57add8d068d06587cc268f1a3a2c6)
+- [Matthias Lohr pushed new project tag v3.3.2 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/v3.3.2)
 <!-- GITLAB:END -->
 
 <details>
