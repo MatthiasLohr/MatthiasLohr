@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr closed merge request !1: Configure Renovate at Matthias Lohr / API Cluster](https://gitlab.com/MatthiasLohr/api-cluster/-/merge_requests/1)
-- [Matthias Lohr deleted project branch renovate/nginx-1.x at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commits/renovate/nginx-1.x)
-- [Matthias Lohr accepted merge request !34: Update nginx Docker tag to v1.31.8 at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/merge_requests/34)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/compare/57da2cbe57c69a96a36a4da91811013c2a78ab1f...7abe550610d57add8d068d06587cc268f1a3a2c6)
-- [Matthias Lohr pushed new project tag v3.3.2 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/v3.3.2)
+- [Matthias Lohr opened merge request !7: Update Helm release hcloud-csi to v2.24.1 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/merge_requests/7)
+- [Matthias Lohr pushed new project branch renovate/hcloud-csi-2.x at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/renovate/hcloud-csi-2.x)
+- [Matthias Lohr opened merge request !6: Update Helm release hcloud-cloud-controller-manager to v1.39.2 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/merge_requests/6)
+- [Matthias Lohr pushed new project branch renovate/hcloud-cloud-controller-manager-1.x at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/renovate/hcloud-cloud-controller-manager-1.x)
+- [Matthias Lohr pushed to project branch renovate/redis-28.x at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/commit/5f763732fe5ba45bea9d4465fcb1d25b15aafa09)
 <!-- GITLAB:END -->
 
 <details>
