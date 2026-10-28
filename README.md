@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr opened merge request !7: Update Helm release hcloud-csi to v2.24.1 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/merge_requests/7)
-- [Matthias Lohr pushed new project branch renovate/hcloud-csi-2.x at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/renovate/hcloud-csi-2.x)
-- [Matthias Lohr opened merge request !6: Update Helm release hcloud-cloud-controller-manager to v1.39.2 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/merge_requests/6)
-- [Matthias Lohr pushed new project branch renovate/hcloud-cloud-controller-manager-1.x at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/renovate/hcloud-cloud-controller-manager-1.x)
-- [Matthias Lohr pushed to project branch renovate/redis-28.x at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/commit/5f763732fe5ba45bea9d4465fcb1d25b15aafa09)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / API Cluster](https://gitlab.com/MatthiasLohr/api-cluster/-/commit/59185c5a43b7b575e8d245116068c894f09fad42)
+- [Matthias Lohr pushed new project tag v1.72.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/v1.72.0)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commit/ba5b600007f0b4f3c1f82ed53d3459e2eecfa246)
+- [Matthias Lohr deleted project branch simplify-chart at Matthias Lohr / API Cluster](https://gitlab.com/MatthiasLohr/api-cluster/-/commits/simplify-chart)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / API Cluster](https://gitlab.com/MatthiasLohr/api-cluster/-/commit/e85459b896ad99b7c064f153f745f7bec628fa34)
 <!-- GITLAB:END -->
 
 <details>
