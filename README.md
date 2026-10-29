@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / API Cluster](https://gitlab.com/MatthiasLohr/api-cluster/-/commit/59185c5a43b7b575e8d245116068c894f09fad42)
-- [Matthias Lohr pushed new project tag v1.72.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/v1.72.0)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commit/ba5b600007f0b4f3c1f82ed53d3459e2eecfa246)
-- [Matthias Lohr deleted project branch simplify-chart at Matthias Lohr / API Cluster](https://gitlab.com/MatthiasLohr/api-cluster/-/commits/simplify-chart)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / API Cluster](https://gitlab.com/MatthiasLohr/api-cluster/-/commit/e85459b896ad99b7c064f153f745f7bec628fa34)
+- [Matthias Lohr pushed new project tag v1.74.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/v1.74.0)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commit/c871b66445449b920f61ccb29ae3f1e68a408d1f)
+- [Matthias Lohr pushed new project tag v1.73.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/v1.73.0)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commit/59cfa5a23f78f539198bb2c2d535e5f282277444)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/compare/2058889ac94af33f1095c8c50d6ff8d22922b31b...d68ad634cd46b8b863228bed98cb5d2d8078bb58)
 <!-- GITLAB:END -->
 
 <details>
