@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/commit/96d2db2ca1624ccdb994a679a489dd449dab82d2)
-- [Matthias Lohr pushed new project tag v1.74.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/v1.74.0)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commit/c871b66445449b920f61ccb29ae3f1e68a408d1f)
-- [Matthias Lohr pushed new project tag v1.73.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/v1.73.0)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commit/59cfa5a23f78f539198bb2c2d535e5f282277444)
+- [Matthias Lohr pushed to project branch renovate/web3-8.x at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/compare/ff6b123f4ceb4094720f34c64a793abc817fea83...868bf8b39d006db6786736993eb664bab41e6656)
+- [Matthias Lohr opened issue #1: Dependency Dashboard at Matthias Lohr / Renovate](https://gitlab.com/MatthiasLohr/renovate/-/issues/1)
+- [Matthias Lohr opened merge request !2: Update python Docker tag to v3.15 at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/merge_requests/2)
+- [Matthias Lohr opened issue #1: Dependency Dashboard at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/issues/1)
+- [Matthias Lohr opened merge request !3: Update Node.js to v26 at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/merge_requests/3)
 <!-- GITLAB:END -->
 
 <details>
