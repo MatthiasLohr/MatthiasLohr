@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr pushed to project branch renovate/web3-8.x at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/compare/ff6b123f4ceb4094720f34c64a793abc817fea83...868bf8b39d006db6786736993eb664bab41e6656)
-- [Matthias Lohr opened issue #1: Dependency Dashboard at Matthias Lohr / Renovate](https://gitlab.com/MatthiasLohr/renovate/-/issues/1)
-- [Matthias Lohr opened merge request !2: Update python Docker tag to v3.15 at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/merge_requests/2)
-- [Matthias Lohr opened issue #1: Dependency Dashboard at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/issues/1)
-- [Matthias Lohr opened merge request !3: Update Node.js to v26 at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/merge_requests/3)
+- [Matthias Lohr opened merge request !20: Fix leaf complaints succeeding against honest sellers at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/merge_requests/20)
+- [Matthias Lohr pushed new project branch fix/leaf-complaint at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/commits/fix/leaf-complaint)
+- [Matthias Lohr deleted project branch fix/crypt-large at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/commits/fix/crypt-large)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/compare/a93691e1bfeec573b33b4e34f2bb74201e8f0bfc...1a44bd41283f343fd90ea5f4d18900983ec1b683)
+- [Matthias Lohr accepted merge request !19: Fix slice encryption mismatch with contracts&#39; cryptLarge at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/merge_requests/19)
 <!-- GITLAB:END -->
 
 <details>
