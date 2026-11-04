@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr opened merge request !20: Fix leaf complaints succeeding against honest sellers at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/merge_requests/20)
-- [Matthias Lohr pushed new project branch fix/leaf-complaint at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/commits/fix/leaf-complaint)
-- [Matthias Lohr deleted project branch fix/crypt-large at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/commits/fix/crypt-large)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/compare/a93691e1bfeec573b33b4e34f2bb74201e8f0bfc...1a44bd41283f343fd90ea5f4d18900983ec1b683)
-- [Matthias Lohr accepted merge request !19: Fix slice encryption mismatch with contracts&#39; cryptLarge at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/merge_requests/19)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / AuraWall Digital](https://gitlab.com/MatthiasLohr/aurawall-digital/-/commit/c7d60a7034fbc5ad954e8af8751e3a578844809c)
+- [Matthias Lohr deleted project branch fix/smartjudge-verifier at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/commits/fix/smartjudge-verifier)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/compare/6314dcb49ab1d27e3c8a058b9d234698e9143ea5...df644e863c2ee0c2f9bf416e0a0c9d1fdf894c9f)
+- [Matthias Lohr accepted merge request !22: Fix SmartJudge-FairSwap verifier complaints at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/merge_requests/22)
+- [Matthias Lohr opened merge request !22: Fix SmartJudge-FairSwap verifier complaints at Matthias Lohr / BDTsim](https://gitlab.com/MatthiasLohr/bdtsim/-/merge_requests/22)
 <!-- GITLAB:END -->
 
 <details>
