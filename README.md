@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr deleted project branch renovate/nginx-1.x at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/commits/renovate/nginx-1.x)
-- [Matthias Lohr accepted merge request !2: Update nginx Docker tag to v1.31.8 at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/merge_requests/2)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/compare/cb1ab02cacb9b5007bba278dc9997fbe668e360c...412551159cf47e479d68a901830d7647454d4170)
-- [Matthias Lohr pushed to project branch renovate/redis-28.x at Matthias Lohr / paperless-ngx Helm Chart](https://gitlab.com/MatthiasLohr/paperless-ngx-helm-chart/-/commit/99fca98e4130008cb148a534dce4f00ed0bcc4fa)
-- [Matthias Lohr opened merge request !2: Update nginx Docker tag to v1.31.8 at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/merge_requests/2)
+- [Matthias Lohr commented on snippet $4792857 at](https://gitlab.com/-/snippets/4792857#note_4177296812)
+- [Matthias Lohr commented on snippet $4792857 at](https://gitlab.com/-/snippets/4792857#note_4177273389)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/commit/24917b84a160d261377c21a9240dd24b2e212859)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commit/16d80bdbc1ad0f7f08bbf01e49c6edb06f77529c)
+- [Matthias Lohr closed issue #20: resources not applied to nginx container at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/issues/20)
 <!-- GITLAB:END -->
 
 <details>
