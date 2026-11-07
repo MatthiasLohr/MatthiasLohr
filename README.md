@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
+- [Matthias Lohr opened merge request !14: Update Gradle to v9.9.0 at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/merge_requests/14)
+- [Matthias Lohr pushed new project branch renovate/gradle-9.x at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/commits/renovate/gradle-9.x)
+- [Matthias Lohr opened merge request !8: Update Helm release hcloud-cloud-controller-manager to v1.39.3 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/merge_requests/8)
+- [Matthias Lohr pushed new project branch renovate/hcloud-cloud-controller-manager-1.x at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/renovate/hcloud-cloud-controller-manager-1.x)
 - [Matthias Lohr commented on snippet $4792857 at](https://gitlab.com/-/snippets/4792857#note_4177296812)
-- [Matthias Lohr commented on snippet $4792857 at](https://gitlab.com/-/snippets/4792857#note_4177273389)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/commit/24917b84a160d261377c21a9240dd24b2e212859)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commit/16d80bdbc1ad0f7f08bbf01e49c6edb06f77529c)
-- [Matthias Lohr closed issue #20: resources not applied to nginx container at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/issues/20)
 <!-- GITLAB:END -->
 
 <details>
