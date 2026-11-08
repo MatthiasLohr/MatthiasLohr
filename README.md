@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
+- [Matthias Lohr pushed new project tag v1.2.0 at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/commits/v1.2.0)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/commit/d9eeb752f00845130aa59ab4c74fcff3029e89a9)
 - [Matthias Lohr opened merge request !14: Update Gradle to v9.9.0 at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/merge_requests/14)
 - [Matthias Lohr pushed new project branch renovate/gradle-9.x at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/commits/renovate/gradle-9.x)
 - [Matthias Lohr opened merge request !8: Update Helm release hcloud-cloud-controller-manager to v1.39.3 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/merge_requests/8)
-- [Matthias Lohr pushed new project branch renovate/hcloud-cloud-controller-manager-1.x at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/renovate/hcloud-cloud-controller-manager-1.x)
-- [Matthias Lohr commented on snippet $4792857 at](https://gitlab.com/-/snippets/4792857#note_4177296812)
 <!-- GITLAB:END -->
 
 <details>
