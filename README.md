@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr pushed to project branch role/x509pki at Matthias Lohr / Ansible Collection Crypto](https://gitlab.com/MatthiasLohr/ansible-collection-crypto/-/commit/2a206237e9bc2881425c4ba4e15303b5317d2e24)
-- [Matthias Lohr pushed to project branch role/x509pki at Matthias Lohr / Ansible Collection Crypto](https://gitlab.com/MatthiasLohr/ansible-collection-crypto/-/commit/db5187eabd47e07a2bbdd10bb99769a47171b2c9)
-- [Matthias Lohr pushed to project branch role/x509pki at Matthias Lohr / Ansible Collection Crypto](https://gitlab.com/MatthiasLohr/ansible-collection-crypto/-/commit/161abc06ce7fa84e761f31129bcb8291e2295407)
-- [Matthias Lohr pushed to project branch role/x509pki at Matthias Lohr / Ansible Collection Crypto](https://gitlab.com/MatthiasLohr/ansible-collection-crypto/-/commit/0785284a1fcaae4ab86417ae63c8b707c1ad3de7)
-- [Matthias Lohr pushed new project branch role/x509pki at Matthias Lohr / Ansible Collection Crypto](https://gitlab.com/MatthiasLohr/ansible-collection-crypto/-/commits/role/x509pki)
+- [Matthias Lohr pushed new project tag v1.4.2 at Matthias Lohr / veraPDF](https://gitlab.com/MatthiasLohr/verapdf/-/commits/v1.4.2)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / veraPDF](https://gitlab.com/MatthiasLohr/verapdf/-/commit/a77d85eec938e8e83b7ff50ba807bde604b4c393)
+- [Matthias Lohr deleted project branch renovate/semver-3.x at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/renovate/semver-3.x)
+- [Matthias Lohr accepted merge request !20: Update dependency semver to v3.1.1 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/20)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/compare/c871b66445449b920f61ccb29ae3f1e68a408d1f...a1ce72004ac9d0717b12f3ede28bc0d13a15e8b9)
 <!-- GITLAB:END -->
 
 <details>
