@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr pushed new project tag v1.4.2 at Matthias Lohr / veraPDF](https://gitlab.com/MatthiasLohr/verapdf/-/commits/v1.4.2)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / veraPDF](https://gitlab.com/MatthiasLohr/verapdf/-/commit/a77d85eec938e8e83b7ff50ba807bde604b4c393)
-- [Matthias Lohr deleted project branch renovate/semver-3.x at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/renovate/semver-3.x)
-- [Matthias Lohr accepted merge request !20: Update dependency semver to v3.1.1 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/20)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/compare/c871b66445449b920f61ccb29ae3f1e68a408d1f...a1ce72004ac9d0717b12f3ede28bc0d13a15e8b9)
+- [Matthias Lohr opened merge request !15: Update Gradle to v9.9.1 at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/merge_requests/15)
+- [Matthias Lohr pushed new project branch renovate/gradle-9.x at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/commits/renovate/gradle-9.x)
+- [Matthias Lohr opened merge request !3: Update certbot/certbot Docker tag to v5.10.0 at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/merge_requests/3)
+- [Matthias Lohr pushed new project branch renovate/certbot-certbot-5.x at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/commits/renovate/certbot-certbot-5.x)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commit/f988d632b03e90e96e299a04426c8931cadde7cf)
 <!-- GITLAB:END -->
 
 <details>
