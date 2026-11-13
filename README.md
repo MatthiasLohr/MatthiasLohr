@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commit/7e706a839ff60df8df55812a2e17f6038f7c7cb6)
-- [Matthias Lohr deleted project tag v1.17.0 at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commits/v1.17.0)
-- [Matthias Lohr pushed new project tag v1.17.0 at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commits/v1.17.0)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commit/f1c8a411881baa585008a4d800d3859b4f2757d1)
-- [Matthias Lohr deleted project tag v1.17.0 at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commits/v1.17.0)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / pg\_basebackup restore](https://gitlab.com/MatthiasLohr/pg-basebackup-restore/-/compare/c469d28f45de517b2023233bb28f63ad9601edc5...54fc5fd95af3b5a17a7694aa4748256e8c06d96e)
+- [Matthias Lohr deleted project branch renovate/humanize-4.x at Matthias Lohr / pg\_basebackup restore](https://gitlab.com/MatthiasLohr/pg-basebackup-restore/-/commits/renovate/humanize-4.x)
+- [Matthias Lohr accepted merge request !7: Update dependency humanize to v4.17.0 at Matthias Lohr / pg\_basebackup restore](https://gitlab.com/MatthiasLohr/pg-basebackup-restore/-/merge_requests/7)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / TOLOlib](https://gitlab.com/MatthiasLohr/tololib/-/commit/f462a365d57be75ab230ac6db6b52101d4fd4384)
+- [Matthias Lohr commented on issue #1 at Matthias Lohr / TOLOlib](https://gitlab.com/MatthiasLohr/tololib/-/issues/1#note_4226105898)
 <!-- GITLAB:END -->
 
 <details>
