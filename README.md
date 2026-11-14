@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
+- [Matthias Lohr opened merge request !9: Update Helm release hcloud-csi to v2.24.2 at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/merge_requests/9)
+- [Matthias Lohr pushed new project branch renovate/hcloud-csi-2.x at Matthias Lohr / Ansible Collection Hetzner](https://gitlab.com/MatthiasLohr/ansible-collection-hetzner/-/commits/renovate/hcloud-csi-2.x)
 - [Matthias Lohr pushed to project branch main at Matthias Lohr / pg\_basebackup restore](https://gitlab.com/MatthiasLohr/pg-basebackup-restore/-/compare/c469d28f45de517b2023233bb28f63ad9601edc5...54fc5fd95af3b5a17a7694aa4748256e8c06d96e)
 - [Matthias Lohr deleted project branch renovate/humanize-4.x at Matthias Lohr / pg\_basebackup restore](https://gitlab.com/MatthiasLohr/pg-basebackup-restore/-/commits/renovate/humanize-4.x)
 - [Matthias Lohr accepted merge request !7: Update dependency humanize to v4.17.0 at Matthias Lohr / pg\_basebackup restore](https://gitlab.com/MatthiasLohr/pg-basebackup-restore/-/merge_requests/7)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / TOLOlib](https://gitlab.com/MatthiasLohr/tololib/-/commit/f462a365d57be75ab230ac6db6b52101d4fd4384)
-- [Matthias Lohr commented on issue #1 at Matthias Lohr / TOLOlib](https://gitlab.com/MatthiasLohr/tololib/-/issues/1#note_4226105898)
 <!-- GITLAB:END -->
 
 <details>
