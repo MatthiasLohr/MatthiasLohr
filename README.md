@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
+- [Matthias Lohr pushed new project tag v1.77.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/v1.77.0)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commit/0056c9f1250e342d04b7c8470a542bafe7750390)
 - [Matthias Lohr deleted project branch renovate/semver-3.x at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/renovate/semver-3.x)
 - [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/compare/e395390b2bbaf3d9c9d600e53f38ebdbeb96c109...2bbd3eb2c2650d1c9a1f5bb62156f2cec7dd49e9)
 - [Matthias Lohr accepted merge request !21: Update dependency semver to v3.1.2 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/21)
-- [Matthias Lohr opened merge request !21: Update dependency semver to v3.1.2 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/21)
-- [Matthias Lohr pushed new project branch renovate/semver-3.x at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/renovate/semver-3.x)
 <!-- GITLAB:END -->
 
 <details>
