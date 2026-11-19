@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr pushed new project tag v1.77.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/v1.77.0)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commit/0056c9f1250e342d04b7c8470a542bafe7750390)
-- [Matthias Lohr deleted project branch renovate/semver-3.x at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/renovate/semver-3.x)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/compare/e395390b2bbaf3d9c9d600e53f38ebdbeb96c109...2bbd3eb2c2650d1c9a1f5bb62156f2cec7dd49e9)
-- [Matthias Lohr accepted merge request !21: Update dependency semver to v3.1.2 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/merge_requests/21)
+- [Matthias Lohr pushed to project branch feature/composer-plugins-install at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commit/838b33a2202a2c866b7105a037b7ad2780a4272b)
+- [Matthias Lohr pushed to project branch feature/composer-plugins-install at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commit/663355d58c196da3dc14e85f76544aa3626eab07)
+- [Matthias Lohr pushed to project branch feature/composer-plugins-install at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commit/c827d4b080102a765a754583289199932a8bea74)
+- [Matthias Lohr pushed to project branch feature/composer-plugins-install at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/compare/78c1196e0a9c18d3564a9b8e0f68523c332cecb2...f710ecf2ec0cdfd9d25e100cbbaec46fd67ddccd)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commit/7f992aba717fd5c9d1381dd52619c8f4cfb6a58c)
 <!-- GITLAB:END -->
 
 <details>
