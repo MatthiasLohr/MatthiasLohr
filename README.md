@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
-- [Matthias Lohr pushed to project branch feature/composer-plugins-install at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commit/838b33a2202a2c866b7105a037b7ad2780a4272b)
-- [Matthias Lohr pushed to project branch feature/composer-plugins-install at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commit/663355d58c196da3dc14e85f76544aa3626eab07)
-- [Matthias Lohr pushed to project branch feature/composer-plugins-install at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commit/c827d4b080102a765a754583289199932a8bea74)
-- [Matthias Lohr pushed to project branch feature/composer-plugins-install at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/compare/78c1196e0a9c18d3564a9b8e0f68523c332cecb2...f710ecf2ec0cdfd9d25e100cbbaec46fd67ddccd)
-- [Matthias Lohr pushed to project branch main at Matthias Lohr / Roundcube Helm Chart](https://gitlab.com/MatthiasLohr/roundcube-helm-chart/-/commit/7f992aba717fd5c9d1381dd52619c8f4cfb6a58c)
+- [Matthias Lohr deleted project branch renovate/nginx-1.x at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/commits/renovate/nginx-1.x)
+- [Matthias Lohr accepted merge request !4: Update nginx Docker tag to v1.31.9 at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/merge_requests/4)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/compare/4b04c0f22931e33f3d5aa5c39a05665d85383e0e...a3b91372de214f5a68238f84739dc65e646a22a3)
+- [Matthias Lohr deleted project branch renovate/gradle-9.x at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/commits/renovate/gradle-9.x)
+- [Matthias Lohr accepted merge request !17: Update Gradle to v9.9.2 at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/merge_requests/17)
 <!-- GITLAB:END -->
 
 <details>
