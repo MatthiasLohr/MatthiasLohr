@@ -166,11 +166,11 @@ Beyond building, I share what I know — through workshops, mentoring and talks.
 ### 🦊 Recent GitLab activity
 
 <!-- GITLAB:START -->
+- [Matthias Lohr pushed new project tag v1.79.0 at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commits/v1.79.0)
+- [Matthias Lohr pushed to project branch main at Matthias Lohr / GitLab Agent Permissioned Helm Chart](https://gitlab.com/MatthiasLohr/gitlab-agent-permissioned-helm-chart/-/commit/fd6b466173750d8ab145a7bf7e6b7904c66a6e6c)
 - [Matthias Lohr deleted project branch renovate/nginx-1.x at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/commits/renovate/nginx-1.x)
 - [Matthias Lohr accepted merge request !4: Update nginx Docker tag to v1.31.9 at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/merge_requests/4)
 - [Matthias Lohr pushed to project branch main at Matthias Lohr / Ansible Collection Leisure](https://gitlab.com/MatthiasLohr/ansible-collection-leisure/-/compare/4b04c0f22931e33f3d5aa5c39a05665d85383e0e...a3b91372de214f5a68238f84739dc65e646a22a3)
-- [Matthias Lohr deleted project branch renovate/gradle-9.x at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/commits/renovate/gradle-9.x)
-- [Matthias Lohr accepted merge request !17: Update Gradle to v9.9.2 at Matthias Lohr / AOM Starter](https://gitlab.com/MatthiasLohr/aomstarter/-/merge_requests/17)
 <!-- GITLAB:END -->
 
 <details>
